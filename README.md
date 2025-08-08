@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**kattsu-20xx/kattsu-20xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+> kiss you ?
+¯\ (ツ) /¯
++----------------------------------------------+
+| 👋 Hi there, I'm Quách Mạnh Thắng!           |
+|      A programmer from Vietnam 🇻🇳            |
++----------------------------------------------+
+| Name     : Quách Mạnh Thắng                  |
+| Age      : 20                                |
+| Location : Vietnam                           |
+| Hobbies  : Coding, music, football           |
+| Dream    : Become a DevSecOps                |
+| Dev      : Python, networking                |
+| Tools    : Terminal, git, docker, aws, k8s   |
+| CI/CD    : Git, github, gitlab               |
+| 📫 email : coolguys.dev@gmail.com            |
++----------------------------------------------+
+> If you give up, think about why you started.
