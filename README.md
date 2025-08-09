@@ -13,6 +13,6 @@
 | Dev      : Python, networking                |
 | Tools    : Terminal, git, docker, aws, k8s   |
 | CI/CD    : Git, github, gitlab               |
-| 📫 email : coolguys.dev@gmail.com            |
+| 📫 email : nobita.musi@gmail.com            |
 +----------------------------------------------+
 > If you give up, think about why you started.
