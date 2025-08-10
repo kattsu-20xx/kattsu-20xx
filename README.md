@@ -15,4 +15,4 @@
 | CI/CD    : Git, github, gitlab               |
 | 📫 email : nobita.musi@gmail.com            |
 +----------------------------------------------+
-> If you give up, think about why you started.
+> just code. just me. no love.
