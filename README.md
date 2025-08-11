@@ -1,19 +1,24 @@
-<div>
+<div style="
+  font-family: monospace; 
+  max-width: 700px; 
+  border: 1px solid #ccc; 
+  border-radius: 8px; 
+  padding: 1em;
+  background-color: #f0f0f0;
+  background-image: 
+    radial-gradient(circle at 1px 1px, #ccc 1px, transparent 1.5px),
+    radial-gradient(circle at 3px 3px, #ccc 1px, transparent 1.5px);
+  background-size: 4px 4px;
+">
 
- <!-- Cover image on the right -->
-  <img src="https://raw.githubusercontent.com/aswinop/aswinop/main/asserts/cover.png" width="25%" align="right" />
+  <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 0.5em;">
+    <img src="https://raw.githubusercontent.com/aswinop/aswinop/main/asserts/anime.gif" height="30" alt="anime gif" style="flex-shrink: 0;" />
+    <span style="font-size: 1.1em;">&gt; kiss you ?</span>
+  </div>
 
-  <!-- Anime GIF on the left -->
-  <img src="https://raw.githubusercontent.com/aswinop/aswinop/main/asserts/anime.gif" height="70" align="left" />
+  <pre style="margin: 0; line-height: 1.3;">
+  ¯\ (ツ) /¯
 
-  <!-- Introduction -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=50&duration=3000&pause=1000&color=F38BA8&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello%2C+I'm+Kattsu." width="70%" />
-  <br><br>
-</div>
-
-```text
-> kiss you ?
-¯\ (ツ) /¯
 +----------------------------------------------+
 | 👋 Hi there, I'm Quách Mạnh Thắng!           |
 |      A programmer from Vietnam 🇻🇳            |
@@ -28,5 +33,7 @@
 | CI/CD    : Git, github, gitlab               |
 | 📫 email : nobita.musi@gmail.com             |
 +----------------------------------------------+
-> just code. just me. no love.
-```
+&gt; just code. just me. no love.
+  </pre>
+
+</div>
