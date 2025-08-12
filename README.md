@@ -18,7 +18,7 @@
 
   <pre style="margin: 0; line-height: 1.3;">
   ¯\ (ツ) /¯
-<img src="https://raw.githubusercontent.com/aswinop/aswinop/main/asserts/last.jpg" width="25%" align="right" />
+<img src="/asserts/529553640_734511652891652_2976031106800046330_n.jpg" width="25%" align="right" />
 +----------------------------------------------+
 | 👋 Hi there, I'm Quách Mạnh Thắng!           |
 |      A programmer from Vietnam 🇻🇳            |
