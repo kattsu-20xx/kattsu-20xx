@@ -20,8 +20,8 @@
   ¯\ (ツ) /¯
 <img src="/asserts/528237727_1672798980086365_8292597605039025271_n.jpg" width="25%" align="right" />
 +----------------------------------------------+
-| 👋 Hi there, I'm Quách Mạnh Thắng!           |
-|      A programmer from Vietnam 🇻🇳            |
+|   >> Hi there, I'm Quách Mạnh Thắng!         |
+|   >>  A programmer from Vietnam 🇻🇳           |
 +----------------------------------------------+
 | Name     : Quách Mạnh Thắng                  |
 | Age      : 20                                |
@@ -31,7 +31,7 @@
 | Dev      : Python, networking                |
 | Tools    : Terminal, git, docker, aws, k8s   |
 | CI/CD    : Git, github, gitlab               |
-| 📫 email : nobita.musi@gmail.com             |
+| Email    : nobita.musi@gmail.com             |
 +----------------------------------------------+
 &gt; just code. just me. no love.
   </pre>
