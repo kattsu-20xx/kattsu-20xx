@@ -18,7 +18,7 @@
 
   <pre style="margin: 0; line-height: 1.3;">
   ¯\ (ツ) /¯
-<img src="/asserts/528237727_1672798980086365_8292597605039025271_n.jpg" width="25%" align="right" />
+<!--img src="/asserts/528237727_1672798980086365_8292597605039025271_n.jpg" width="25%" align="right" /-->
 +----------------------------------------------+
 |   >> Hi there, I'm Quách Mạnh Thắng!         |
 |   >>  A programmer from Vietnam 🇻🇳           |
